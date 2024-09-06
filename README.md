@@ -1,0 +1,1 @@
+# Predicting-salary-based-on-different-types-of-Regression
